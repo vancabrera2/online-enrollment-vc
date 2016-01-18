@@ -1,0 +1,710 @@
+body {
+background-color: #4AA02C;
+min-height: 500px;
+margin: 0px auto;
+font-family: arial;
+}
+
+#header 
+{
+	background-color: #347235;
+	width: 1120px;
+	height: 105px;
+	margin: 10px 12px 0px 0px;
+	float: right;
+	border-style: solid;
+    border-color: #008000;
+}
+
+#content
+{
+	background-color: white;
+	width: 1150px;
+	height: 1000px;
+	margin-top: 40px;
+	margin-left: 100px;
+	border-style: solid;
+    border-color: #254117;
+}
+
+.headtext 
+{
+font-size: 50px;
+margin: -80px 0 0 145px;
+color: white;
+}
+
+.feulogopic
+{
+width: 78px;
+margin: 5px 0px 0px 45px;
+}
+
+#barline
+{
+margin: -40px 0 0 118px;
+}
+
+#headnav img 
+{
+width: 30px;
+}
+
+#headnav
+{
+float:right;
+margin: -23px 5px 0px 0px;
+}
+
+#headnav li 
+{
+display: inline-block;
+}
+
+#nav-box
+{
+background-color: #347235;
+width: 1100px;
+height: 30px;
+margin: 130 0 0 24;
+}
+
+.ul-index li
+{
+padding: 3px;
+margin: 1 148 0 9;
+display:inline-block;
+
+}
+
+.ul-index a
+{
+color: white;
+text-decoration: none;
+}
+
+li.home
+{
+margin-left: 100px;
+}
+
+#login
+{
+margin:0px 0 0 70px;
+float:left;
+}
+
+.loginas 
+{
+float: right;
+margin: -72px 13px 0 0px;
+color: white;
+font-size: 11px;
+font-family: arial;
+}
+
+.loginas a{
+text-decoration: none;
+color:white;
+}
+
+.loginasfoot 
+{
+
+float: left;
+color: black;
+margin: -10px 0 0 0px;
+font-size: 10;
+font-family: arial;
+}
+
+.loginasfoot a{
+text-decoration: none;
+color:white;
+}
+
+.loginForm
+{
+position: relative;
+top: -130px;
+right: -50px;
+}
+
+.marqueetxt
+{
+margin: 10 12 0 0px;
+float:right;
+color: black;
+font-weight: bold;
+font-family: pacifico;
+font-size: 25px;
+}
+
+#tamlogoright
+{
+background-color: #e6ecea;
+width: 250px;
+height: 300px;
+float:right;
+margin: 60 44 0 0;
+border-style: solid; 
+}
+
+#tamlogoright p {
+font-weight: bold;
+margin: 228 0 0 74;
+font-family: arial;
+
+}
+
+.tamlogo
+{
+margin: 5 49 0 0;
+width: 150px;
+float:right;
+}
+
+
+#paraindex p
+{
+text-indent: 50px;
+width: 750px;
+margin: -20 0 0 52px;
+float:left;
+}
+
+.gymright {
+margin: 20 0 0 95;
+}
+
+#footer p
+{
+float: right;
+margin-right: 100px;
+}
+
+/* Admin */
+.adminimg
+{
+margin: 15px 0 0 35px;
+}
+
+.uladmin {
+margin: -141px 0 0 35px;
+}
+
+#adminbox a{
+text-decoration: none;
+color: black;
+font-size: 15px;
+font-family: arial;
+}
+
+#add-student
+{
+background-color: #e6ecea;
+width: 400px;
+height:355px;
+float: right;
+margin:-150px 465 0 0px;
+border-style: solid;	
+
+}
+
+#edit-accountadmin
+{
+background-color: #e6ecea;
+border-style: solid;
+width: 345px;
+height: 304px;
+float: right;
+margin: -115 250 0 0px;
+display: none;
+}
+
+#tableadd
+{
+float: left;
+margin: 33 0 0 84px;
+border-style: solid;
+}
+
+#insert-subject
+{
+background-color: #e6ecea;
+width: 400px;
+height: 355px;
+float:right;
+margin: -306 -406 0 0px;
+border-style: solid;
+}
+
+#reset-studentpass
+{
+background-color: #e6ecea;
+width: 825px;
+height: 680px;
+float: right;
+margin: -119 33 0 0px;
+border-style: solid;
+display:none;
+}
+
+#add-subject
+{
+background-color: #e6ecea;
+width: 400px;
+height: 230px;
+float:right;
+display: none;
+margin: -161 250 0 0px;
+border-style: solid;
+}
+
+#add-professor
+{
+background-color: #e6ecea;
+width: 400px;
+height: 355px;
+float:right;
+display: none;
+margin: -161 250 0 0px;
+border-style: solid;
+}
+
+#right
+{
+float:right;
+}
+
+
+.form 
+{
+margin: 17 0 0 51px;
+}
+
+.registerform td {
+font-size: 20px;
+}
+
+.txt-reg {
+font-family: arial;
+font-weight: bold;
+margin-left: -10px;
+}	
+
+.table-admin
+{
+width: 96%;
+margin: 35 0 0 20px;
+}
+
+.table-insert-subj
+{
+margin:55 0 0 50px;
+}
+
+.table-insert-subj2
+{
+float: right;
+margin: -158px 95 0 0px;
+}
+
+.txt-insert
+{
+font-family: arial;
+font-weight: bold;
+position: relative;
+top: 22px;
+left: 33px;
+}
+
+.btnadd
+{
+margin: 28px 0 0 -96px;
+}
+
+/*Student old*/
+.ulstudent {
+margin: -135 0 0 45px;
+}
+
+#enroll-subject
+{
+background-color: #e6ecea;
+width: 800px;
+height: 680px;
+float:right;
+margin: -119 55 0 0px;
+border-style:solid;
+}
+
+#edit-account
+{
+background-color: #e6ecea;
+width: 475px;
+height: 355px;
+float:right;
+margin: -119 205 0 0px;
+border-style:solid;
+display: none;
+}
+
+#view-grades
+{
+background-color: #e6ecea;
+width: 800px;
+height: 680px;
+float:right;
+margin: -119 55 0 0px;
+border-style:solid;
+}
+
+#view-gradesold
+{
+background-color: #e6ecea;
+width: 800px;
+height: 680px;
+float:right;
+margin: -119 55 0 0px;
+border-style:solid;
+display:none;
+}
+
+
+#view-schedule
+{
+background-color: #e6ecea;
+width: 800px;
+height: 680px;
+float:right;
+margin: -119 55 0 0px;
+border-style:solid;
+display: none;
+}
+
+#table_enrolled_subj
+{
+background-color: #e6ecea;
+width: 215px;
+height: 350px;
+border-style: solid;
+margin: 71 0 1 36px;
+}
+
+#table_enrolled_subj p
+{
+margin-top:2px;
+}
+
+/*#edit-accountnew
+{
+background-color: #e6ecea;
+width: 475px;
+height: 355px;
+float:right;
+margin: -119 205 0 0px;
+border-style:solid;
+display: none;
+}
+
+
+
+#view-schedulenew
+{
+background-color: #e6ecea;
+width: 800px;
+height: 680px;
+float:right;
+margin: -119 55 0 0px;
+border-style:solid;
+}*/
+
+.txt-enroll
+{
+margin: 25 0 0 31px;
+float: left;
+}
+
+.txt-editstud
+{
+margin: 30 0 0 50px;
+float: left;
+}
+
+.txt-enroll
+{
+margin: 30 0 0 40px;
+float: left;
+font-size: 30px;
+}
+
+.table-editstudent
+{
+margin: 78 0 0 90px;
+}
+
+.table-oldstud
+{
+width: 90%;
+margin: 78 0 0 46px;
+}
+
+.table-editadmin
+{
+margin: 0 0 0 40px;
+}
+
+.standardtxt
+{
+margin: 30 0 0 40px;
+float: left;
+font-size: 30px;
+}
+
+
+th {
+height: 50px;
+}
+
+/*Professor*/
+
+#search-stud{
+background-color: #e6ecea;
+border-style: solid;
+width: 345px;
+height: 109px;
+float: right;
+margin: -115 250 0 0px;
+}
+
+#table-result{
+margin: 45 0 0 -311px;
+background-color: #e6ecea;
+width: 805px;
+height:580px;
+border-style: solid;
+}
+
+#give-grade
+{
+background-color: #e6ecea;
+width: 800px;
+height: 610px;
+float:right;
+margin: -119 55 0 0px;
+border-style:solid;
+display:none;
+}
+
+#edit-accountprof
+{
+background-color: #e6ecea;
+border-style: solid;
+width: 345px;
+height: 304px;
+float: right;
+margin: -115 250 0 0px;
+display:none;
+}
+
+
+input.username:disabled
+{
+
+}
+
+.table-search
+{
+margin: 15 0 0 35px;
+float: left;
+width: 90%;
+}
+
+.table-givegrade
+{
+width: 98%;
+margin: 78 0 0 7px;
+}
+
+.txtsearch
+{
+margin: 20 0 0 27px;
+float: left;
+}
+
+
+.editform
+{
+margin: 26 0 0 58px;
+}
+
+/*About*/
+#paraabout p
+{
+text-indent: 50px;
+width: 750px;
+margin: -20 0 0 52px;
+float:left;
+}
+
+.abouttxt
+{
+font-weight: bold;
+font-size: 25px;
+font-family: arial;
+margin-left: 50px;
+}
+
+#tamlogorightabout
+{
+background-color: #e6ecea;
+width: 250px;
+height: 300px;
+float:right;
+margin: 60 44 0 0;
+border-style: solid; 
+}
+
+#tamlogorightabout p {
+font-weight: bold;
+margin: 228 0 0 74;
+font-family: arial;
+
+}
+
+.sirnicanor
+{
+margin: -285 0 0 -50;
+width: 300px;
+height: 500px;
+float: right;
+}
+
+/*academics*/
+
+#business
+{
+background-color: #e6ecea;
+width: 300px;
+height: 40px;
+margin: 20 0 0 45;
+}
+
+#business p 
+{
+padding: 10px;
+margin-left: 10px;
+font-family: arial;
+}
+
+#computer
+{
+background-color: #e6ecea;
+width: 300px;
+height: 40px;
+margin: 260 0 0 45;
+}
+
+#computer p 
+{
+
+margin-left: 10px;
+font-family: arial;
+}
+
+.lefttxt
+{
+margin: 25px 0 0 50px;
+}
+
+#rightcontent
+{
+float: right;
+margin: -6 255 0 0;
+}
+
+.righttxt
+{
+position: absolute;
+top: 211px;
+right: 508px;
+}
+
+#One
+{
+margin: -345 265 0 0;
+}
+
+
+#Three
+{
+float:right;
+margin: -715 -220 0 0;
+}
+
+/*contact*/
+.contactform
+{
+margin: 0 0 0 22;
+padding-top: 20px;
+}
+
+#contactcontent 
+{
+background-color: #e6ecea;
+width: 475px;
+height: 415px;
+margin: 50 0 0 65;
+}
+
+#contactcontent td
+{
+font-family: arial;
+margin: 0 0 0 0;
+}
+
+#contactright 
+{
+float: right;
+margin: -346 -32 0 0px;
+}
+
+.msgs
+{
+height: 100px;
+}
+	
+.righttxtconta
+{
+float:right;
+margin: -70 192 0 -233px;
+font-size: 40px;
+}
+
+#contactleft a
+{
+text-decoration: none;
+}
+
+.internet
+{
+margin: 55 0 0 100px;
+}
+
+.socialtxt
+{
+margin-left: -65px;
+}
+
+.contactimg
+{
+float: right;
+margin: -200 80 0 0;
+}
+
+/* prof edit grade */
+.fs_editgrade_prof
+{
+margin-top: 150px;
+}
